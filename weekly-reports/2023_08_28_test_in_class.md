@@ -1,8 +1,27 @@
 ---
 # Report 1 - Week of 08/31/2023 #
 
-This week, I firstly played around with the Rhino file and Grasshopper file to explore the possibility of the given design.
-<img width="200" alt="original " src="[https://github.com/Berkeley-MDes/tdf-fa23-Heziaaaaa/blob/main/weekly-reports/image/original_wood_stand.png]">
+In this week report, I have worked on two things
+
+1. Test out the Rhino and Grasshopper file
+2. Test out laser cut
+
+### 💡 Rhino & Grasshopper file ###
+I firstly played around with the Rhino file and Grasshopper file to explore the possibility of the given design.
+
+1. This is the original setting of the Grasshopper file for the plywood cellphone stand.
+   
+    <img width="800" alt="original_wood_stand" src="https://github.com/Berkeley-MDes/tdf-fa23-Heziaaaaa/blob/main/weekly-reports/image/original_wood_stand.png">
+   
+2. I was playing around and found that there was limitation to the angle that ths user could adjust to. The maximum angle is 96. The below two images shown:
+   - When the angle is 97, the Grasshopper file reported error with red preview in Rhino.
+     
+     <img width="800" alt="original " src="https://github.com/Berkeley-MDes/tdf-fa23-Heziaaaaa/blob/main/weekly-reports/image/wood_stand_14promax_angle_97.png">
+
+   - The below image shows the Rhino preview when the maximum angle of 96 is reached.
+
+     <img width="800" alt="original " src="https://github.com/Berkeley-MDes/tdf-fa23-Heziaaaaa/blob/main/weekly-reports/image/wood_stand_14promax_angle_96.png">
+
 
 1. one
 2. two
