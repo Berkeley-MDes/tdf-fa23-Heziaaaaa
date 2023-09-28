@@ -14,6 +14,8 @@ Here will be the documentations for my weekly project process for the course: Te
 
 [Report 3 - Week of 09/14/2023](weekly-reports/2023_09_14report.md)
 
-[Report 4 - Week of 09/21/2023](weekly-reports/2023_09_21report.md)
-
 ---
+
+## Project 2: Digital Ecosystem Demo ##
+
+[Report 4 - Week of 09/21/2023](weekly-reports/2023_09_21report.md)
