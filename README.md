@@ -25,3 +25,27 @@ Here will be the documentations for my weekly project process for the course: Te
 [Report 6 - Week of 10/05/2023](weekly-reports/2023_10_05report.md)
 
 [Report 7 - Week of 10/12/2023](weekly-reports/2023_10_12report.md)
+
+[Report 8 - Week of 10/19/2023](weekly-reports/2023_10_19report.md)
+
+---
+
+## Project 3: Mini Me ##
+
+[Report 9 - Week of 10/26/2023](weekly-reports/2023_10_26report.md)
+
+[Report 10 - Week of 11/02/2023](weekly-reports/2023_11_02report.md)
+
+---
+
+## Project 4: Dreamweaver ##
+
+[Report 11 - Week of 11/09/2023](weekly-reports/2023_11_09report.md)
+
+[Report 12 - Week of 11/16/2023](weekly-reports/2023_11_16report.md)
+
+[Report 13 - Week of 11/23/2023](weekly-reports/2023_11_23report.md)
+
+[Report 14 - Week of 11/30/2023](weekly-reports/2023_11_30report.md)
+
+[Report 15 - Week of 12/07/2023](weekly-reports/2023_12_07report.md)
