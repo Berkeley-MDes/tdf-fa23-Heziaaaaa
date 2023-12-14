@@ -48,4 +48,3 @@ Here will be the documentations for my weekly project process for the course: Te
 
 [Report 14 - Week of 11/30/2023](weekly-reports/2023_11_30report.md)
 
-[Report 15 - Week of 12/07/2023](weekly-reports/2023_12_07report.md)
